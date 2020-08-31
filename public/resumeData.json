@@ -1,0 +1,115 @@
+{
+    "main": {
+        "name": "Kevin Holder",
+        "description": "Full-Stack web developer with a desire to learn cyber security.",
+        "image": "./images/profilePic.jpg",
+        "bio": "",
+        "contactmessage": "",
+        "email": "kholder777@yahoo.com",
+        "phone": "512-413-3194",
+        "github": "https://github.com/kholder777",
+        "linkedin": "https://www.linkedin.com/in/kevin-holder-25476788/",
+        "address": {
+            "street": "n/a",
+            "city": "Austin",
+            "state": "TX",
+            "zip": "78748"
+        },
+        "website": "",
+        "resumedownload": "",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/kevin.holder.96",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/kevin-holder-25476788/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/kholder777",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "",
+        "education": [{
+            "school": "The University of Texas at Austin",
+            "degree": "Full Stack Developer",
+            "graduated": "October 2020",
+            "description": ""
+        }],
+        "work": [{
+            "company": "Local Union 520",
+            "title": "Journeyman Electrician",
+            "years": "2006 - Present",
+            "description": ""
+        }],
+        "skills": [{
+                "name": "Web/Server-side APIs",
+                "level": ""
+            },
+            {
+                "name": "Javascript",
+                "level": ""
+            },
+            {
+                "name": "HTML",
+                "level": ""
+            },
+            {
+                "name": "CSS",
+                "level": ""
+            },
+            {
+                "name": "NodeJS",
+                "level": ""
+            },
+            {
+                "name": "ReactJs",
+                "level": ""
+            },
+
+            {
+                "name": "SQL/NoSQL/MongoDB",
+                "level": ""
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+            "title": "",
+            "category": "",
+            "image": "",
+            "url": ""
+        }, {
+            "title": "",
+            "category": "",
+            "image": "",
+            "url": ""
+        }, {
+            "title": "",
+            "category": "",
+            "image": "",
+            "url": ""
+        }, {
+            "title": "",
+            "category": "",
+            "image": "",
+            "url": ""
+        }, {
+            "title": "",
+            "category": "",
+            "image": "",
+            "url": ""
+        }, {
+            "title": "",
+            "category": "",
+            "image": "",
+            "url": ""
+        }]
+    }
+}
