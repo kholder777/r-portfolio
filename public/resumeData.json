@@ -2,7 +2,7 @@
     "main": {
         "name": "Kevin Holder",
         "description": "Full-Stack web developer with a desire to learn cyber security.",
-        "image": "./images/profilePic.jpg",
+        "image": "images/profilePic.jpg",
         "bio": "",
         "contactmessage": "",
         "email": "kholder777@yahoo.com",
@@ -10,13 +10,13 @@
         "github": "https://github.com/kholder777",
         "linkedin": "https://www.linkedin.com/in/kevin-holder-25476788/",
         "address": {
-            "street": "n/a",
+            "street": "",
             "city": "Austin",
             "state": "TX",
             "zip": "78748"
         },
         "website": "",
-        "resumedownload": "",
+        "resumedownload": "http://www.timbakerdev.com",
         "social": [{
                 "name": "facebook",
                 "url": "https://www.facebook.com/kevin.holder.96",
@@ -81,6 +81,16 @@
     },
     "portfolio": {
         "projects": [{
+            "title": "",
+            "category": "",
+            "image": "",
+            "url": ""
+        }, {
+            "title": "",
+            "category": "",
+            "image": "",
+            "url": ""
+        }, {
             "title": "",
             "category": "",
             "image": "",
