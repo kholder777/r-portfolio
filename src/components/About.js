@@ -37,7 +37,9 @@ class About extends Component {
 									<br />
 									<span>{phone}</span>
 									<br />
-									<span>{email}</span>
+									<span>
+										<a href="mailto:{email}">{email}</a>
+									</span>
 								</p>
 							</div>
 							<div className="columns download">

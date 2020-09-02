@@ -81,25 +81,25 @@
     },
     "portfolio": {
         "projects": [{
-            "title": "",
-            "category": "",
-            "image": "",
-            "url": ""
+            "title": "Workout Tracker",
+            "category": "app",
+            "image": "images/WorkoutTracker.jpg",
+            "url": "https://workout-trackeer.herokuapp.com/"
         }, {
-            "title": "",
-            "category": "",
-            "image": "",
-            "url": ""
+            "title": "Day Planner",
+            "category": "app",
+            "image": "images/dayplanner.png",
+            "url": "https://kholder777.github.io/dayPlanner/"
         }, {
-            "title": "",
-            "category": "",
-            "image": "",
-            "url": ""
+            "title": "JS Quiz",
+            "category": "app",
+            "image": "images/JSQuiz.png",
+            "url": "https://kholder777.github.io/quiz_for_code/"
         }, {
-            "title": "",
+            "title": "Weather Dashboard",
             "category": "",
-            "image": "",
-            "url": ""
+            "image": "images/Weather.png",
+            "url": "https://kholder777.github.io/WeatherDashboard/"
         }, {
             "title": "",
             "category": "",
