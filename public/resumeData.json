@@ -83,43 +83,23 @@
         "projects": [{
             "title": "Workout Tracker",
             "category": "app",
-            "image": "images/WorkoutTracker.jpg",
+            "image": "WorkoutTracker.png",
             "url": "https://workout-trackeer.herokuapp.com/"
         }, {
             "title": "Day Planner",
             "category": "app",
-            "image": "images/dayplanner.png",
+            "image": "dayplanner.png",
             "url": "https://kholder777.github.io/dayPlanner/"
         }, {
             "title": "JS Quiz",
             "category": "app",
-            "image": "images/JSQuiz.png",
+            "image": "JSQuiz.png",
             "url": "https://kholder777.github.io/quiz_for_code/"
         }, {
             "title": "Weather Dashboard",
             "category": "",
-            "image": "images/Weather.png",
+            "image": "Weather.png",
             "url": "https://kholder777.github.io/WeatherDashboard/"
-        }, {
-            "title": "",
-            "category": "",
-            "image": "",
-            "url": ""
-        }, {
-            "title": "",
-            "category": "",
-            "image": "",
-            "url": ""
-        }, {
-            "title": "",
-            "category": "",
-            "image": "",
-            "url": ""
-        }, {
-            "title": "",
-            "category": "",
-            "image": "",
-            "url": ""
         }]
     }
 }
